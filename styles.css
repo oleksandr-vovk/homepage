@@ -250,6 +250,7 @@ body {
 
 .additional-info__education-university-name {
     color: var(--secondary-text-color);
+    font-size: 15px;
 }
 
 .additional-info__languages {
